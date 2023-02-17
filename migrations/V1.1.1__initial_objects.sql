@@ -1,4 +1,4 @@
-CREATE SCHEMA if not exists DEMO;
+CREATE SCHEMA if not exists TEST_DEVOPS;
 CREATE TABLE if not exists HELLO_WORLD
 (
    FIRST_NAME VARCHAR
